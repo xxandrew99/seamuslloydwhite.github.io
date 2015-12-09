@@ -9,14 +9,14 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Seamus' blog
-tagline:             'A Fantastic Blog'
-description:         'A friendly blog by me'
+title:               "Seamus' blog"
+tagline:             "A Fantastic Blog"
+description:         "A friendly blog by me"
 
 
 # About/contact
-author:              Seamus Lloyd White
-  name:              Seamus Lloyd White
+author:              "Seamus Lloyd White"
+  name:              "Seamus Lloyd White"
  
 
 # Custom vars
