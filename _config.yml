@@ -10,25 +10,25 @@ relative_permalinks: true
 
 # Setup
 title:               Naringu
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
+tagline:             ''
+description:         ''
+url:                 http://seamuslloydwhite.github.io
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  name:              Seamus Lloyd White
+  url:               
+  email:             
 
 # Custom vars
 version:             2.0
 
 # Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
-disqus:             testnaringu
+github:				https://github.com/Seamuslloydwhite
+twitter:			
+disqus:       
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
