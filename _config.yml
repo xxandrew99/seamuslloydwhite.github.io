@@ -9,15 +9,15 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Naringu
-tagline:             ''
-description:         ''
+title:               Seamus Lloyd White
+tagline:             'A mind blowing blog'
+description:         'A fantastic blog by me'
 url:                 http://seamuslloydwhite.github.io
 baseurl:             /
 paginate:            7
 
 # About/contact
-author:
+author:              Seamus Lloyd White
   name:              Seamus Lloyd White
   url:               
   email:             
