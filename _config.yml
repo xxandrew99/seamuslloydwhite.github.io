@@ -9,7 +9,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Seamus Lloyd White
+title:               Seamus LW
 tagline:             'A mind blowing blog'
 description:         'A fantastic blog by me'
 url:                 http://seamuslloydwhite.github.io
@@ -17,8 +17,8 @@ baseurl:             /
 paginate:            7
 
 # About/contact
-author:              Seamus Lloyd White
-  name:              Seamus Lloyd White
+author:             
+  name:              
   url:               
   email:             
 
@@ -26,7 +26,7 @@ author:              Seamus Lloyd White
 version:             2.0
 
 # Social Media
-github:				https://github.com/Seamuslloydwhite
+github:				
 twitter:			
 disqus:       
 
