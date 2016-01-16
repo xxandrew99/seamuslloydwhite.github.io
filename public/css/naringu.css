@@ -37,7 +37,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: ""Comic Sans MS", cursive, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -48,8 +48,8 @@ html {
 }
 
 body {
-  color: #a54dff;
-  background-color: #008000;
+  color: #b266ff;
+  background-color: #339933;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
