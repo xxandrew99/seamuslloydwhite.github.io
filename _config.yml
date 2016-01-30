@@ -6,8 +6,7 @@ highlighter:         pygments
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
-
+e
 # Setup
 title:               Seamus LW
 tagline:             'A mind blowing blog'
