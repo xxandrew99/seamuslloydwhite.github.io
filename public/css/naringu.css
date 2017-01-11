@@ -49,7 +49,7 @@ html {
 
 body {
   color: #6600cc;
-  background-image:  url http://m.rgbimg.com/cache1xIUYE/users/x/xy/xymonau/600/oTWuWIg.jpg;
+  background-image:  url ("http://m.rgbimg.com/cache1xIUYE/users/x/xy/xymonau/600/oTWuWIg.jpg") ;
   background-color:  #008fb3;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
