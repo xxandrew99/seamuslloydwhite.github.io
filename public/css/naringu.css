@@ -47,10 +47,10 @@ html {
   }
 }
 
-body {
-  color: #6600cc;
-  background-image:  url ("http://m.rgbimg.com/cache1xIUYE/users/x/xy/xymonau/600/oTWuWIg.jpg") ;
-  background-color:  #008fb3;
+body  {
+    color: #006600;
+    background-image:  url ("http://m.rgbimg.com/cache1xIUYE/users/x/xy/xymonau/600/oTWuWIg.jpg") ;
+    background-color:  #008fb3;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -352,7 +352,7 @@ tbody tr:nth-child(odd) th {
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   border: 1px solid #6DD;
-  background-color: #202020;
+  background-color: #33ccff;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
