@@ -244,12 +244,9 @@ table {
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #6DD;
+  border: 1px solid #000;
 }
-tbody tr:nth-child(odd) td,
-tbody tr:nth-child(odd) th {
-  background-color: #000;
-}
+
 
 /*
  * Wrapper
