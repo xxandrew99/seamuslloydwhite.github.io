@@ -48,7 +48,7 @@ html {
 }
 
 body  {
-    color: #ffff00;
+    color: #80e5ff;
     background-image: url("http://7-themes.com/data_images/collection/3/4447190-purple-wallpapers.jpg");
     background-color:  #008fb3;
   -webkit-text-size-adjust: 100%;
@@ -57,7 +57,7 @@ body  {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #ffff00;
+  color: #80e5ff;
   text-decoration: none;
 }
 a strong {
@@ -73,7 +73,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #ffff00;
+  color: #80e5ff;
   letter-spacing: -.025rem;
 } 
 
@@ -247,11 +247,11 @@ th {
   border: 1px solid #000;
 }
 td{
-  background: ;
+  background: #6699ff ;
 }
 
 th{ 
-      background: ;
+      background: #0000ff ;
     }
 /*
  * Wrapper
