@@ -10,9 +10,9 @@ Today we started work on our new topic - FUZE
 
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Introduction to FUZE</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>16/01/16</td>
   </tr>
 </table>
@@ -20,15 +20,15 @@ Today we started work on our new topic - FUZE
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>We started with a basic introduction on how to setup FUZE.</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To have experimented with FUZE basic programs.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td> Yes, my partner I completed and changed a few tutorials.</td>
   </tr>
 </table>
@@ -36,22 +36,22 @@ Today we started work on our new topic - FUZE
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>Today I learnt by experimenting. My parted and I had a go at changing the basic tutorial and using what it told us to improve our basic program.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>My partner and I were not working very efficiently, and we might need a system to make sure we both do an equal amount.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td> Next time my partner and I will put in a turn system.</td>
