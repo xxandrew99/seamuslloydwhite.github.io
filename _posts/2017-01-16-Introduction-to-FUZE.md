@@ -58,4 +58,11 @@ Today we started work on our new topic - FUZE
   </tr>
 </table>
 
+A FUZE box
+<html>
+<body>
 
+<img src="http://3.bp.blogspot.com/-ff2hxZ0GjNc/VMK4kgaTNoI/AAAAAAAAEQw/CobMXhxqZMU/s1600/FUZE_T2_AB_Med-e1405701451348.png" alt="Mountain View" style="width:304px;height:228px;">
+
+</body>
+</html>
