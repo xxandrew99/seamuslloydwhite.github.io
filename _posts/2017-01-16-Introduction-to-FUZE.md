@@ -13,7 +13,7 @@ Today we started work on our new topic - FUZE
     <th>Title</th>
     <td>Introduction to FUZE</td>
     <th>Date</th>
-    <td>16/01/16</td>
+    <td>16/01/17</td>
   </tr>
 </table>
 
