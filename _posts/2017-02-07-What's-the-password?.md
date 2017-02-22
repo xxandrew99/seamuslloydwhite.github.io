@@ -2,7 +2,7 @@
 title: What's the password?
 layout: post
 author: seamus.lloydwhite
-permalink: /What'sthe password?/
+permalink: /What'sthepassword?/
 source-id: 1GN2KJpu7PnhIPF9BnkoWDRfxwS8WY9qao71LsNkB4d8
 published: true
 ---
