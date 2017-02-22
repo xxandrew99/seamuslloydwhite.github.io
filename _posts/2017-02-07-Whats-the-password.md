@@ -1,5 +1,5 @@
 ---
-title: What's the password?
+title: Whats the password
 layout: post
 author: seamus.lloydwhite
 permalink: /whats_the_password/
