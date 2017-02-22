@@ -1,8 +1,8 @@
 ---
-title: Whats the password
+title: What's the password?
 layout: post
 author: seamus.lloydwhite
-permalink: /whats_the_password/
+permalink: /what's_the_password?/
 source-id: 1GN2KJpu7PnhIPF9BnkoWDRfxwS8WY9qao71LsNkB4d8
 published: true
 ---
