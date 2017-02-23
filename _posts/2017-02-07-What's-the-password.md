@@ -59,3 +59,11 @@ In our last lesson, we continued to use the FUZE program book.
 </table>
 
 
+Ha! Can't get past this!
+<html>
+<body>
+
+<img src="https://thumbs.dreamstime.com/t/encrypted-digital-lock-green-binary-code-44643378.jpg" alt="Mountain View" style="width:304px;height:228px;">
+
+</body>
+</html>
