@@ -8,8 +8,8 @@ highlighter:         rouge
 permalink:           pretty
 # Setup
 title:               Seamus LW
-tagline:             'A mind blowing blog'
-description:         'A fantastic blog by me'
+tagline:             'Great stuff'
+description:         'A great blog about IT'
 url:                 http://seamuslloydwhite.github.io
 baseurl:             /
 paginate:            7
@@ -21,7 +21,7 @@ url:     seamuslloydwhite.github.io
 email:   seamus.lloydwhite@challoners.org          
 
 # Custom vars
-version:             2.0
+Enjoy
   
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
