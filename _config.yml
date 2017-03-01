@@ -15,19 +15,14 @@ baseurl:             /
 paginate:            7
 
 # About/contact
-author:             
-  name:              
-  url:               
-  email:             
+author:    seamuslloydwhite         
+  name:    seamuslloydwhite          
+  url:     seamuslloydwhite.github.io          
+  email:   seamus.lloydwhite@challoners.org          
 
 # Custom vars
 version:             2.0
-
-# Social Media
-github:				
-twitter:			
-disqus:       
-
+  
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
   creator:			Rizky Ariestiyansyah
