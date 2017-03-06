@@ -58,4 +58,5 @@ Today, we continued to work with the electronic components kit.
   </tr>
 </table>
 
+A video of what we did today.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UBLBLeAXYJE" frameborder="0" allowfullscreen></iframe>
