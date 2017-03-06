@@ -10,9 +10,9 @@ Today, we continued to work with the electronic components kit.
 
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Detectors, alarms and lights!</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>6.3.17</td>
   </tr>
 </table>
@@ -20,15 +20,15 @@ Today, we continued to work with the electronic components kit.
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>We had finished the flashing lights program</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To have worked through more component tutorials.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>We finished and experimented.</td>
   </tr>
 </table>
@@ -36,26 +36,26 @@ Today, we continued to work with the electronic components kit.
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>This week we finished the tutorials and went back to experiment to get better and more interesting results.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>I need to work on my accuracy when typing with the FUZE box keyboards.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>I will get on to the next tutorial.</td>
   </tr>
 </table>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UBLBLeAXYJE" frameborder="0" allowfullscreen></iframe>
