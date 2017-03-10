@@ -1,6 +1,8 @@
 ---
 title: Detectors, alarms and lights!
 layout: post
+categories:
+- FUZE
 author: seamus.lloydwhite
 permalink: /detectors,-alarms-and-lights!/
 source-id: 12l2KrcMg0De-yaIrJIbBC2IeprNkd9qoTpb0sod8flM
