@@ -1,5 +1,7 @@
 ---
 title: Introduction to FUZE
+categories:
+- FUZE
 layout: post
 author: seamus.lloydwhite
 permalink: /introduction-to-fuze/
