@@ -1,5 +1,7 @@
 ---
 title: Space Invader!
+categories:
+- FUZE
 layout: post
 author: seamus.lloydwhite
 permalink: /space-invader!/
