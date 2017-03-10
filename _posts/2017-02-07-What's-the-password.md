@@ -1,5 +1,7 @@
 ---
 title: What's the password
+categories:
+- FUZE
 layout: post
 author: seamus.lloydwhite
 permalink: /what's_the_password/
