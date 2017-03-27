@@ -10,9 +10,9 @@ Today, we used the code I wrote last week for pre-programmed movement.
 
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>It has a mind of its own!</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>27.3/17</td>
   </tr>
 </table>
@@ -20,15 +20,15 @@ Today, we used the code I wrote last week for pre-programmed movement.
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>We had the robot arm working and had played with it, making it manipulate more objects.</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To have used pre-programmed movement</td>
   </tr>
   <tr>
-    <td>Did I reach my target? </td>
+    <th>Did I reach my target? </th>
     <td>I managed to get it working.</td>
   </tr>
 </table>
@@ -36,26 +36,26 @@ Today, we used the code I wrote last week for pre-programmed movement.
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I used trial and error this week. It took many attempts to try and pick up what we were aiming for, and in the end we ran out of time. Oh well! We did get very close though, and the code was all right.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>Again, I just need to speed up. It didn't help that my partner consistently walked away, but it was OK.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>I will just have to work faster, there is however, no next time for FUZE.</td>
+    <th>I will just have to work faster, there is however, no next time for FUZE.</th>
   </tr>
 </table>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19hZ6yTh5MQ" frameborder="0" allowfullscreen></iframe>
