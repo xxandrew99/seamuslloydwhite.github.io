@@ -536,8 +536,8 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #25BFBF;
-  border: 5px solid green;
-  border-radius: 5px
+  border: 5px solid #25BFBF;
+  border-radius: 2px
     
 }
 .page-title,
