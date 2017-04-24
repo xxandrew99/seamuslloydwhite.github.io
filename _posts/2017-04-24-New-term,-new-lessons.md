@@ -12,7 +12,7 @@ In this terms first week of I.T, we started to work on a website called Codecade
 
 <table>
   <tr>
-    <tdh>Title</tdh>
+    <th>Title</th>
     <td>New term, new lessons</td>
     <th>Date</th>
     <td>24.4.17</td>
