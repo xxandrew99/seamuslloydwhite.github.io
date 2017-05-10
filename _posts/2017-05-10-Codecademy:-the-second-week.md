@@ -1,5 +1,5 @@
 ---
-title: Codecademy: the second week
+title: the second week of Codecademy
 layout: post
 author: seamus.lloydwhite
 permalink: /codecademy:-the-second-week/
@@ -11,7 +11,7 @@ On Monday this week, I continued to work with Codecademy.
 <table>
   <tr>
     <td>Title</td>
-    <td>Codecademy: the second week</td>
+    <td>the second week of Codecademy</td>
     <td>Date</td>
     <td>8.5.17</td>
   </tr>
