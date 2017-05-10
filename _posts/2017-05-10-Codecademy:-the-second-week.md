@@ -13,7 +13,7 @@ On Monday this week, I continued to work with Codecademy.
 <table>
   <tr>
     <th>Title</th>
-    <td>Codecademy: the second week</td>
+    <td>the second week of Codecadmey</td>
     <th>Date</th>
     <td>8.5.17</td>
   </tr>
@@ -59,13 +59,3 @@ On Monday this week, I continued to work with Codecademy.
     <td>I am going to take my time reading the description.</td>
   </tr>
 </table>
-
-<p> The python symbol </p>
-
-<html>
-<body>
-
-<img src="https://image.freepik.com/free-icon/python-language_318-1898.jpg" style="width:304px;height:304px;">
-
-</body>
-</html>
