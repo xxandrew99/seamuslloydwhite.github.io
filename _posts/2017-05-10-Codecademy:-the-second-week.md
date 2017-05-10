@@ -62,5 +62,10 @@ On Monday this week, I continued to work with Codecademy.
 
 <p> The python symbol </p>
 
+<html>
+<body>
+
 <img src="https://image.freepik.com/free-icon/python-language_318-1898.jpg" style="width:304px;height:304px;">
 
+</body>
+</html>
