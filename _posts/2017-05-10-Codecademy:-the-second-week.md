@@ -1,5 +1,5 @@
 ---
-title: Codecademy: the second week
+title: the second week of Codecademy
 layout: post
 author: seamus.lloydwhite
 category:
