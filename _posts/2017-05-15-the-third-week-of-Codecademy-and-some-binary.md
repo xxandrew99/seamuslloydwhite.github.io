@@ -62,9 +62,13 @@ Today, I completed more Codecademy, as well as listening to a brief talk about A
 
 <html>
 <body>
-
 A basic ASCII table
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/US-ASCII_code_chart.png/1200px-US-ASCII_code_chart.png" style="width:304px;height:250px;">
+</body>
+</html>
 
+<html>
+<body>
+<img src="https://goo.gl/k4IzCV" style="width:1px;height:1px;">
 </body>
 </html>
