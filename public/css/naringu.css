@@ -48,16 +48,16 @@ html {
 }
 
 body  {
-    color: #80e5ff;
+    color: #bfbfbf;
     background-image: url("http://7-themes.com/data_images/collection/3/4447190-purple-wallpapers.jpg");
-    background-color:  #008fb3;
+    background-color:  #f2f2f2;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #80e5ff;
+  color: #bfbfbf;
   text-decoration: none;
 }
 a strong {
@@ -73,7 +73,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color: #80e5ff;
+  color: #999999;
   letter-spacing: -.025rem;
 } 
 
@@ -100,7 +100,7 @@ p {
 }
 
 strong {
-  color: #1BFFFF;
+  color: #999999;
 }
 
 
@@ -122,19 +122,19 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #6DD;
-  border-bottom: 1px solid #6DD;
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
 }
 
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #6DD;
+  color: #e6e6e6;
   text-transform: uppercase;
 }
 abbr[title] {
   cursor: help;
-  border-bottom: 1px dotted #6DD;
+  border-bottom: 1px dotted #e6e6e6;
 }
 
 /* 
@@ -150,7 +150,7 @@ code {
   padding: .25em .5em;
   font-size: 85%;
   color: #000;
-  background-color: #0CDADA;;
+  background-color: #e6e6e6;;
   border-radius: 3px;
 }
 pre {
@@ -165,7 +165,7 @@ pre {
   word-break: break-all;
   word-wrap: break-word;
   background-color: #000;
-  border: 1px solid #6DD;
+  border: 1px solid #e6e6e6;
 }
 pre code {
   padding: 0;
@@ -178,7 +178,7 @@ pre code {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
-  background-color: #6DD;
+  background-color: #e6e6e6;
 }
 .highlight pre {
   margin-bottom: 0;
@@ -300,7 +300,7 @@ th{
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 1px solid #6DD;
+  border-bottom: 1px solid #e6e6e6;
 }
 .masthead-title {
   margin-top: 0;
@@ -353,8 +353,8 @@ th{
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  border: 1px solid #6DD;
-  background-color: #33ccff;
+  border: 1px solid #e6e6e6;
+  background-color: #bfbfbf;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -367,7 +367,7 @@ th{
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: #6DD;
+  color: #a6a6a6;
 }
 .sidebar-item {
   padding: 1rem;
@@ -390,7 +390,7 @@ a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
   background-color: #191E1E;
-  border-color: #6DD;
+  border-color: #e6e6e6;
 }
 
 @media (min-width: 48em) {
@@ -416,7 +416,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #6DD;
+  color: #e6e6e6;
   background-color: #000;
   border-radius: 4px;
   cursor: pointer;
@@ -437,7 +437,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #6DD;
+  color: #e6e6e6;
   background-color: #505050;
 }
 
@@ -516,7 +516,7 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
   padding: 1rem;
   color: #000;
-  background-color: #6DD;
+  background-color: #6e6e6e;
 }
 
 /*
@@ -535,8 +535,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #25BFBF;
-  border: 5px solid #25BFBF;
+  color: #a6a6a6;
+  border: 5px solid #a6a6a6;
   border-radius: 2px;
     
 }
@@ -561,7 +561,7 @@ a.sidebar-nav-item:focus {
 .related {
   /*padding-top: 2rem;*/
   /*padding-bottom: 2rem;*/
-  border-top: 1px solid #6DD;
+  border-top: 1px solid #6e6e6e;
   /*border-bottom: 1px solid #6DD;*/
 }
 .related-posts {
@@ -577,7 +577,7 @@ a.sidebar-nav-item:focus {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #666666;
   text-decoration: none;
 }
 .related-posts li a:hover small {
@@ -605,7 +605,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #6DD;
+  border: 1px solid #6e6e6e;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -613,7 +613,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #099EA4;
+  background-color: #4d4d4d;
 }
 
 @media (min-width: 30em) {
@@ -651,7 +651,7 @@ a.pagination-item:hover {
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #6DD;
+  color: #6e6e6e;
 }
 
 
@@ -688,5 +688,5 @@ a.pagination-item:hover {
 .footer {
   padding-top: 10px;
   padding-bottom: 10px; 
-  border-top: 1px solid #6DD;
+  border-top: 1px solid #6e6e6e;
 }
