@@ -2,6 +2,8 @@
 title: Holiday Coding Diary
 layout: post
 author: seamus.lloydwhite
+category:
+- Codecademy
 permalink: /holiday-coding-diary/
 source-id: 1kOu5WeFxaYtqdSH1GwsxcOtAKJnRCZj1F4ZIBD2TWTw
 published: true
@@ -48,4 +50,9 @@ There were no I.T lessons for three weeks. We were asked to use Codecademy every
   </tr>
 </table>
 
+<html>
+<body>
+<img src="https://goo.gl/k4IzCV" style="width:1px;height:1px;">
+</body>
+</html>
 
