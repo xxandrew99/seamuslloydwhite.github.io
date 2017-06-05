@@ -12,9 +12,9 @@ There were no I.T lessons for three weeks. We were asked to use Codecademy every
 
 <table>
   <tr>
-    <td>Date</td>
-    <td>Progress</td>
-    <td>Streak</td>
+    <th>Date</th>
+    <th>Progress</th>
+    <th>Streak</th>
   </tr>
   <tr>
     <td>15.5.17</td>
