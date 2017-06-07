@@ -3,7 +3,7 @@ title: I missed a lesson!
 layout: post
 author: seamus.lloydwhite
 Category:
-- Codecademy
+ - Codecademy
 permalink: /i-missed-a-lesson!/
 source-id: 1zUTWuXvlZxQ4UF35_427v-HvkxoytYDNDAUhsZFpWrs
 published: true
