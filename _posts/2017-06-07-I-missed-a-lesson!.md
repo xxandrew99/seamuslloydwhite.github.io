@@ -12,3 +12,8 @@ Unfortunately, I missed this week's lesson.
 
 Due to an orthodontist appointment, I was out of school for the afternoon, and so I missed the I.T lesson of this week.
 
+<html>
+<body>
+<img src="https://goo.gl/k4IzCV" style="width:1px;height:1px;">
+</body>
+</html>
