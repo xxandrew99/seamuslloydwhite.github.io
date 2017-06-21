@@ -60,4 +60,10 @@ This week we did even more Codecademy - but with a supply teacher this time.
   </tr>
 </table>
 
+<html>
+<body>
+<img src="https://goo.gl/k4IzCV" style="width:1px;height:1px;">
+</body>
+</html>
+
 
