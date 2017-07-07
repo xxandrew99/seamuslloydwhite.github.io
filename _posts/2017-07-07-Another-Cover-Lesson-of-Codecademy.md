@@ -61,3 +61,10 @@ More Codecademy - and another cover lesson!
 </table>
 
 
+<html>
+<body>
+<img src="https://goo.gl/k4IzCV" style="width:1px;height:1px;">
+</body>
+</html>
+
+
