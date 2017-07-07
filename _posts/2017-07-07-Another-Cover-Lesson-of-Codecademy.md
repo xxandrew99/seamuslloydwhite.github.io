@@ -2,7 +2,7 @@
 title: Another Cover Lesson of Codecademy
 layout: post
 author: seamus.lloydwhite
-category
+category:
 - Codecademy
 permalink: /another-cover-lesson-of-codecademy/
 source-id: 1sCZZxevrN-pgdMMqHxs6omAwiy_i92-9n2WhHd1O2kI
