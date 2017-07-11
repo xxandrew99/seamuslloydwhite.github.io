@@ -61,3 +61,9 @@ This week is the second last week - and the teacher's back!
 </table>
 
 
+<html>
+<body>
+<img src="https://goo.gl/k4IzCV" style="width:1px;height:1px;">
+</body>
+</html>
+
