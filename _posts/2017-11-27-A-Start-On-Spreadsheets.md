@@ -8,6 +8,8 @@ permalink: /a-start-on-spreadsheets/
 source-id: 1_Dq_aRWSTh6Jvk_xNSa2zbUA-Vu9I_5561i9nTNNZoI
 published: true
 ---
+Today, we started work with google sheets.
+
 <table>
   <tr>
     <td>Title</td>
