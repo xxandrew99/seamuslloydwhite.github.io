@@ -2,6 +2,8 @@
 title: A Start On Spreadsheets
 layout: post
 author: seamus.lloydwhite
+category:
+- Spreadsheets
 permalink: /a-start-on-spreadsheets/
 source-id: 1_Dq_aRWSTh6Jvk_xNSa2zbUA-Vu9I_5561i9nTNNZoI
 published: true
@@ -56,4 +58,5 @@ published: true
   </tr>
 </table>
 
+<img src="https://lh3.ggpht.com/e3oZddUHSC6EcnxC80rl_6HbY94sM63dn6KrEXJ-C4GIUN-t1XM0uYA_WUwyhbIHmVMH=w300" alt="Mountain View" style="width:304px;height:228px;">
 
